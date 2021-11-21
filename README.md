@@ -1,8 +1,8 @@
 <h1 align="center">
-<b> 『Lêɠêɳ̃dẞø†』🇮🇳 </b>
+<b> 『●RSN●』🇮🇳 </b>
 </h1>
 
-[![LEGENDBOT](https://telegra.ph/file/a8bb03505857e5c03dd8d.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
+[![●RSN●](https://telegra.ph/file/a8bb03505857e5c03dd8d.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
 
 <h6 align="center">
   <b>⚡ rsn Bot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
